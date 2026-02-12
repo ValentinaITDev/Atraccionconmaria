@@ -1,22 +1,28 @@
 # Atracción con María de los Ángeles
 
-Landing page profesional para servicios espirituales especializados en amor, amarres, endulzamientos y reconciliación de parejas.
+Landing page profesional para servicios espirituales de atracción sentimental, endulzamientos y armonización de parejas.
 
 ## Características
 
 - Diseño responsive y moderno
 - Optimizado para conversión a WhatsApp
-- SEO optimizado para búsquedas generales
+- SEO optimizado para búsquedas espirituales
 - Animaciones suaves y elegantes
 - Paleta de colores profesional
 - Fondo elegante con overlay
 
 ## Servicios
 
-- Amarres de amor efectivos
-- Endulzamientos de pareja
-- Unión y recuperación sentimental
-- Fortalecimiento de relaciones
+- Atracción sentimental
+- Endulzamientos espirituales
+- Armonización de pareja
+- Reconexión emocional
+- Fortalecimiento del vínculo afectivo
+- Equilibrio emocional
+
+## Enfoque
+
+Servicios espirituales enfocados en el bienestar emocional, armonía y equilibrio afectivo. Lenguaje profesional y elegante sin promesas exageradas.
 
 ## Tecnologías
 
