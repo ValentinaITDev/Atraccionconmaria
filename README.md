@@ -6,9 +6,17 @@ Landing page profesional para servicios espirituales especializados en amor, ama
 
 - Diseño responsive y moderno
 - Optimizado para conversión a WhatsApp
-- SEO optimizado para Bucaramanga
+- SEO optimizado para búsquedas generales
 - Animaciones suaves y elegantes
 - Paleta de colores profesional
+- Fondo elegante con overlay
+
+## Servicios
+
+- Amarres de amor efectivos
+- Endulzamientos de pareja
+- Unión y recuperación sentimental
+- Fortalecimiento de relaciones
 
 ## Tecnologías
 
@@ -16,9 +24,9 @@ Landing page profesional para servicios espirituales especializados en amor, ama
 - CSS3
 - JavaScript Vanilla
 
-## Ubicación
+## Alcance
 
-Bucaramanga, Santander, Colombia
+Servicios disponibles a nivel nacional e internacional. Atención presencial y en línea.
 
 ## Contacto
 
